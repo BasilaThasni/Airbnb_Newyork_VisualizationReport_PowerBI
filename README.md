@@ -5,31 +5,31 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 ## Dataset Overview
 **The dataset contains the following key fields:**
 
-1.Listing ID: Unique identifier for each Airbnb listing. 
+**1.Listing ID:** Unique identifier for each Airbnb listing. 
 
-2.Name: Name/title of the listing.
+**2.Name:** Name/title of the listing.
 
-3.Host ID: Identifier for the host managing the listing.
+**3.Host ID:** Identifier for the host managing the listing.
 
-4.Neighborhood Group: Broad area where the listing is located (e.g., Manhattan, Brooklyn).
+**4.Neighborhood Group:** Broad area where the listing is located (e.g., Manhattan, Brooklyn).
 
-5.Neighborhood: Specific neighborhood within a neighborhood group.
+**5.Neighborhood:** Specific neighborhood within a neighborhood group.
 
-6.Latitude/Longitude: Geographical location of the listing.
+**6.Latitude/Longitude:** Geographical location of the listing.
 
-7.Room Type: Type of room offered (e.g., Entire home, Private room, Shared room).
+**7.Room Type:** Type of room offered (e.g., Entire home, Private room, Shared room).
 
-8.Price: Nightly price for the listing.
+**8.Price:** Nightly price for the listing.
 
-9.Minimum Nights: Minimum number of nights required to book.
+**9.Minimum Nights:** Minimum number of nights required to book.
 
-10.Number of Reviews: Total reviews for the listing.
+**10.Number of Reviews:** Total reviews for the listing.
 
-11.Last Review: Date of the most recent review.
+**11.Last Review:** Date of the most recent review.
 
-12.Reviews per Month: Average monthly reviews.
+**12.Reviews per Month:** Average monthly reviews.
 
-13.Availability: Total days available in a year.
+**13.Availability:** Total days available in a year.
 
 ![Screenshot 2024-11-15 170321](https://github.com/user-attachments/assets/0d557974-c656-4a09-aac2-3eae00fe6599)
 
@@ -70,11 +70,20 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 
 ## Insights Derived:
 **Neighborhood Popularity:** Manhattan and Brooklyn are the most popular neighborhood groups, having the highest number of listings.
+![Screenshot 2024-11-15 170918](https://github.com/user-attachments/assets/136e8310-dfc6-484a-bfb5-d0111d1313bb)
 
 **Room Type Distribution:** Entire homes/apartments are the most common room type, especially in Manhattan and Brooklyn.
+![Screenshot 2024-11-15 192634](https://github.com/user-attachments/assets/a74b0f5d-81a0-4fae-82b9-945093a1c8ea)
+
 **Price Variation:** Manhattan has the highest average price per night across room types, while the Bronx and Staten Island are generally more affordable.
+![image](https://github.com/user-attachments/assets/ff36778d-b9f3-4d7f-82bb-edfb88e57e87)
+
 **Review Trends:** A comparison of 2019 vs. 2018 review counts shows growth in guest engagement across the year.
-**Top Hosts:** The top hosts, such as Maya and BrooklynR8, receive the highest number of reviews, indicating a large customer base or frequent stays.
+![image](https://github.com/user-attachments/assets/90f6cef1-5ff1-4d10-b8b3-d94ba11445a5)
+
+**Top Hosts:** The top hosts, such as Maya and Brooklyn & Breakfast -Len, receive the highest number of reviews, indicating a large customer base or frequent stays.
+![image](https://github.com/user-attachments/assets/b92b48d2-cdef-43e3-bb1e-2b9ac54d5531)
+
 
 ## Technical Details:
 **Tools Used:** Power BI for data visualization, DAX for calculations.
