@@ -70,19 +70,46 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 
 ## Insights Derived:
 **Neighborhood Popularity:** Manhattan and Brooklyn are the most popular neighborhood groups, having the highest number of listings.
+
+
 ![Screenshot 2024-11-15 170918](https://github.com/user-attachments/assets/136e8310-dfc6-484a-bfb5-d0111d1313bb)
 
 **Room Type Distribution:** Entire homes/apartments are the most common room type, especially in Manhattan and Brooklyn.
+
+
 ![Screenshot 2024-11-15 192634](https://github.com/user-attachments/assets/a74b0f5d-81a0-4fae-82b9-945093a1c8ea)
 
 **Price Variation:** Manhattan has the highest average price per night across room types, while the Bronx and Staten Island are generally more affordable.
+
+
 ![image](https://github.com/user-attachments/assets/ff36778d-b9f3-4d7f-82bb-edfb88e57e87)
 
 **Review Trends:** A comparison of 2019 vs. 2018 review counts shows growth in guest engagement across the year.
+
+
 ![image](https://github.com/user-attachments/assets/90f6cef1-5ff1-4d10-b8b3-d94ba11445a5)
 
 **Top Hosts:** The top hosts, such as Maya and Brooklyn & Breakfast -Len, receive the highest number of reviews, indicating a large customer base or frequent stays.
+
+
 ![image](https://github.com/user-attachments/assets/b92b48d2-cdef-43e3-bb1e-2b9ac54d5531)
+
+**Listings Density:** The map shows the highest density of listings by the size og the bubbles.The five different colors of the bubble(legend) distiguishes five neighbourhood groups.
+
+![Screenshot 2024-11-15 171023](https://github.com/user-attachments/assets/723716bc-26ec-4bb5-9493-0b79b898519e)
+
+**Details of neighbourhood of highest listings density and lowest listings density:** The button named 'Manhattan' shows every relation of Manhattan with other factors which is marked as a bookmark.And the button named 'Staten Island' shows every relation of Staten Island with the other factors in the visualization.
+
+![Screenshot 2024-11-15 193836](https://github.com/user-attachments/assets/f312935a-62c0-45ef-ac0b-2f85df4d9f3d)
+
+
+**Slicers:** Two slicers where users can select the desired location and room types and see its relations.
+
+![Screenshot 2024-11-15 194037](https://github.com/user-attachments/assets/0230b0b7-05ac-4b78-9194-f9403a6f6cdf)
+
+
+![Screenshot 2024-11-15 194044](https://github.com/user-attachments/assets/51d8b445-3d7d-4b3e-97b7-9f5b4512dbc4)
+
 
 
 ## Technical Details:
