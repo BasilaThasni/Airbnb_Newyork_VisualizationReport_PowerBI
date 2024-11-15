@@ -57,7 +57,7 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 ~A bar chart comparing the average price per night for different room types in each neighborhood group. This allows users to identify the most and least expensive areas and room types.
 
 **4.Neighborhood Groups with Most and Least Listings:**
-~two button that displays the neighborhood group with the highest and lowest number of listings,which are connected by two different bookmarks where all relations of those buttons can be seen.
+~Two button that displays the neighborhood group with the highest and lowest number of listings,which are connected by two different bookmarks where all relations of those buttons can be seen.
 
 **5.Comparison of Reviews: 2019 vs. 2018:**
 ~A line chart that shows the rate of reviews over months for 2018 and 2019, allowing for a comparison of year-over-year review growth.
