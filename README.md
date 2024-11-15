@@ -35,7 +35,7 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 
 
 
-##**Dashboard Overview:**
+## **Dashboard Overview:**
 
 ## Key Metrics Displayed:
 
