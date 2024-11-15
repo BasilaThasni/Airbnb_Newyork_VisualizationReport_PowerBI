@@ -35,7 +35,7 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 
 
 
-## **Dashboard Overview:**
+# **Dashboard Overview:**
 
 ## Key Metrics Displayed:
 
@@ -114,6 +114,8 @@ This repository contains a Power BI dashboard built to analyze the Airbnb New Yo
 
 ## Technical Details:
 **Tools Used:** Power BI for data visualization, DAX for calculations.
+
 **Data Source:** Airbnb New York City dataset (2019).
+
 **DAX Calculations:** Used for calculating metrics such as average price, total listings, availability percentages, and YOY review growth.
 
