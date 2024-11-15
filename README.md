@@ -1,6 +1,6 @@
-# Airbnb New York 2019:
+# **AIRBNB DASHBOARD OF NEWYORK-2019**
 
-This project involves analyzing the Airbnb listings dataset for New York in 2019 using Power BI. The dataset includes information on neighborhoods, room types, prices, availability, reviews, and more. The goal is to uncover trends, patterns, and actionable insights for stakeholders.
+This repository contains a Power BI dashboard built to analyze the Airbnb New York City dataset for the year 2019. The dashboard provides insights into key metrics such as listing distribution, pricing trends, reviews, and host information across different neighborhoods and room types. This project is aimed at showcasing Airbnb trends in New York City, focusing on neighborhood group popularity, room type availability, and review patterns.
 
 ## Dataset Overview
 **The dataset contains the following key fields:**
@@ -32,4 +32,52 @@ This project involves analyzing the Airbnb listings dataset for New York in 2019
 13.Availability: Total days available in a year.
 
 ![Screenshot 2024-11-15 170321](https://github.com/user-attachments/assets/0d557974-c656-4a09-aac2-3eae00fe6599)
+
+
+
+##**Dashboard Overview:**
+
+## Key Metrics Displayed:
+
+1.Location Filter: Allows users to filter the dashboard by neighborhood.
+2.Total Reviews: Displays the cumulative number of reviews across all listings in New York City.
+3.Total Hosts: Shows the total number of unique hosts in the dataset.
+4.Average Reviews by Month: Average number of reviews per listing, calculated monthly.
+5.Total Neighborhoods: The total number of neighborhoods with active Airbnb listings.
+
+### Main Visualizations:
+
+**1.Total Listings by Neighborhood Groups:**
+~A bar chart that highlights the total number of listings across neighborhood groups (Manhattan, Brooklyn, Queens, Bronx, and Staten Island). This visualization indicates which areas have the highest concentration of Airbnb listings.
+
+**2.Availability of Room Types by Neighborhood Group:**
+~A donut chart showing the distribution of room types (Entire home/apartment, Private room, Shared room) across neighborhood groups. This highlights which room type is most available in each neighborhood group.
+
+**3.Average Price of Room Types by Neighborhood Groups:**
+~A bar chart comparing the average price per night for different room types in each neighborhood group. This allows users to identify the most and least expensive areas and room types.
+
+**4.Neighborhood Groups with Most and Least Listings:**
+~two button that displays the neighborhood group with the highest and lowest number of listings,which are connected by two different bookmarks where all relations of those buttons can be seen.
+
+**5.Comparison of Reviews: 2019 vs. 2018:**
+~A line chart that shows the rate of reviews over months for 2018 and 2019, allowing for a comparison of year-over-year review growth.
+
+**6.Top 10 Hosts by Total Reviews:**
+~A bar chart listing the top 10 hosts based on the total number of reviews, helping identify the most popular hosts in terms of guest feedback.
+
+**7.Listings Density Across New York City by Neighborhood Group and Neighborhood:**
+~A map visualization displaying the geographical density of listings across New York City. Each neighborhood group is color-coded, showing areas with high listing density.
+
+## Insights Derived:
+**Neighborhood Popularity:** Manhattan and Brooklyn are the most popular neighborhood groups, having the highest number of listings.
+
+**Room Type Distribution:** Entire homes/apartments are the most common room type, especially in Manhattan and Brooklyn.
+**Price Variation:** Manhattan has the highest average price per night across room types, while the Bronx and Staten Island are generally more affordable.
+**Review Trends:** A comparison of 2019 vs. 2018 review counts shows growth in guest engagement across the year.
+**Top Hosts:** The top hosts, such as Maya and BrooklynR8, receive the highest number of reviews, indicating a large customer base or frequent stays.
+
+## Technical Details:
+**Tools Used:** Power BI for data visualization, DAX for calculations.
+**Data Source:** Airbnb New York City dataset (2019).
+**DAX Calculations:** Used for calculating metrics such as average price, total listings, availability percentages, and YOY review growth.
 
